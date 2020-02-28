@@ -1,0 +1,17 @@
+table {
+  border-style: solid;
+  border-width: 4px;
+  border-spacing: 0px;
+}
+
+td {
+  border-style: solid;
+  border-width: 1px;
+  padding: 6px;
+  text-align: center;
+  width: 400px;
+}
+
+.info {
+  background-color: grey;
+}
